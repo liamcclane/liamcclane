@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋
 
 California, Bay Area developer. Specifically Napa Ca 🍇🌞
 At work I develop with Vue.js and Laravel.
