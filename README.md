@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 California, Bay Area developer. Specifically Napa Ca 🍇🌞
-At work I develop with Vue.js and Laravel.
+At work I develop with Vue.js and Php's Laravel.
 
 Message me to collabrate!
