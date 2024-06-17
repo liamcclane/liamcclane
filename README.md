@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-California, Bay Area developer. Specifically Napa Ca 🍇🌞
-At work I develop with Vue.js and Php's Laravel.
-
-Message me to collabrate!
+I am a professional Software Engineer located in the greater San Francisco area. Message me to collabrate!
